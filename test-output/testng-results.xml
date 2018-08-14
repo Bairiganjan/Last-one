@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13100" started-at="2018-08-08T14:33:02Z" finished-at="2018-08-08T14:33:16Z">
+  <suite name="Default suite" duration-ms="16004" started-at="2018-08-14T15:13:10Z" finished-at="2018-08-14T15:13:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13100" started-at="2018-08-08T14:33:02Z" finished-at="2018-08-08T14:33:16Z">
+    <test name="Default test" duration-ms="16004" started-at="2018-08-14T15:13:10Z" finished-at="2018-08-14T15:13:26Z">
       <class name="Scripts.TestValidLogin">
-        <test-method status="PASS" signature="openApp()[pri:0, instance:Scripts.TestValidLogin@2db7a79b]" name="openApp" is-config="true" duration-ms="8972" started-at="2018-08-08T14:33:02Z" finished-at="2018-08-08T14:33:11Z">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:Scripts.TestValidLogin@2db7a79b]" name="openApp" is-config="true" duration-ms="10919" started-at="2018-08-14T15:13:10Z" finished-at="2018-08-14T15:13:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@2db7a79b]" name="validLogin" duration-ms="4073" started-at="2018-08-08T14:33:11Z" finished-at="2018-08-08T14:33:16Z">
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@2db7a79b]" name="validLogin" duration-ms="5043" started-at="2018-08-14T15:13:21Z" finished-at="2018-08-14T15:13:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method status="PASS" signature="closeApp(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@2db7a79b]" name="closeApp" is-config="true" duration-ms="5" started-at="2018-08-08T14:33:16Z" finished-at="2018-08-08T14:33:16Z">
+        <test-method status="PASS" signature="closeApp(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@2db7a79b]" name="closeApp" is-config="true" duration-ms="3" started-at="2018-08-14T15:13:26Z" finished-at="2018-08-14T15:13:26Z">
           <params>
             <param index="0">
               <value>
